@@ -12,4 +12,4 @@ require('D2FW/XavierCHN/ResourcePrecacher')
     (2) BuildingHelper:AddBuilding(building)
     (3) BuildingHelper:AddUnit(unit)
 ]]
-require('D2FW/MyII/BuildingHelper')
+require('D2FW/Myll/BuildingHelper')
